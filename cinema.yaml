@@ -1,0 +1,13 @@
+cinema:
+- duration: 2 hours
+  ticketPrice: 10.0
+  probability: 0.4017330560785819
+  startTime: '18:00'
+  id: '1'
+  movieName: Movie 1
+- duration: P1H20
+  ticketPrice: 2900.0
+  probability: 0.24178409749059593
+  startTime: '19:00:00'
+  id: '2'
+  movieName: Movie 2

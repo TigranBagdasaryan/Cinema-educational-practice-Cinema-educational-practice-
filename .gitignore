@@ -1,0 +1,35 @@
+# Ignore target directory
+target/
+
+# Allow Maven wrapper jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore target directories in com.cinema.movie
+!**/com/cinema/movie/**/target/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/com/cinema/movie/**/build/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
